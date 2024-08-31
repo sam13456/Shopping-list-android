@@ -1,13 +1,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/splitmoong/ShoppingListApp/assets/77825583/3b122833-9f34-4483-a61b-5aa10da1ccfb" width="250">
+      <img src="https://github.com/user-attachments/assets/a782f580-d693-418e-a16a-ec80a3d254e4">
     </td>
     <td>
-      <img src="https://github.com/splitmoong/ShoppingListApp/assets/77825583/6e760d15-88d8-4a6b-8f97-0c076633068c" width="250">
+      <img src="https://github.com/user-attachments/assets/198c2f74-a73d-40b5-a805-a864f96841c9">
     </td>
     <td>
-      <img src="https://github.com/splitmoong/ShoppingListApp/assets/77825583/f2e0c15e-ed73-4a61-9ecd-6adc5a141484" width="250">
+      <img src="https://github.com/user-attachments/assets/7bde0276-6a53-4e54-ae22-9ff0b803a1a6">
     </td>
     <td valign="top">
       Created a Shopping List Application on Android using Kotlin. <br>
